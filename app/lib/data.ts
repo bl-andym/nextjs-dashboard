@@ -14,8 +14,6 @@ export async function fetchRevenue() {
   // Add noStore() here prevent the response from being cached.
   // This is equivalent to in fetch(..., {cache: 'no-store'}).
 
-  /// bbllaarr
-
   try {
     // Artificially delay a reponse for demo purposes.
     // Don't do this in real life :)
