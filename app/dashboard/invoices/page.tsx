@@ -9,6 +9,11 @@ import { Suspense } from 'react';
 export default async function Page({
     searchParams,
 }: {
+    /*
+     * searchParams?: { query?: string; page?: string }:
+     * TypeScript type annotation indicating an optional object
+     * with optional string type properties 'query' and 'page'
+     */
     searchParams?: {
         query?: string;
         page?: string;

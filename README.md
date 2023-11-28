@@ -4,13 +4,13 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-## clsx:
-
-Conditionally determine class names
-
 ## "use client"
 
 Client Component allowing the use event listeners and hooks.
+
+## clsx:
+
+Conditionally determine class names
 
 ## URLSearchParams
 
