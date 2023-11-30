@@ -28,7 +28,9 @@ Mark all the exported functions within a file as server functions. Server functi
 ## Folder structure
 
 **app** - Root Segment
+
 **dashboard** - Segment
+
 **invoices** - Leaf Segment
 
 **/app**: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
