@@ -18,8 +18,8 @@ A Web API that provides utility methods for manipulating the URL query parameter
 Get the url params string e.g. _?page=1&query=a_.
 
 **Use case**:
-const num = searchParams.get(page) // returns '1'
-const str = searchParams.get(query) // returns 'a'
+const num = searchParams.get(**page**) // returns '1'
+const str = searchParams.get(**query**) // returns 'a'
 
 ## 'use server'
 
